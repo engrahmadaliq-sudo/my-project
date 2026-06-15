@@ -1,2 +1,2 @@
-# my-project
+# myproject
 just for my practice
